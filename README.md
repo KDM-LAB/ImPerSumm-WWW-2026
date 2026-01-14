@@ -94,7 +94,9 @@ behavior_exptraction.ipynb notebook
 📘 **CORPUS TO EMBEDDING CONVERSION**
 
 🔹 This script generates dense semantic embeddings for news headlines, news bodies, and summaries using the **E5 (intfloat/e5-base-v2)** transformer model with GPU support.
+
 🔹 Texts are batch-encoded, mean-pooled, L2-normalized, and stored as **NewsID → embedding** mappings in pickle files for efficient downstream retrieval.
+
 🔹 The resulting embeddings are used as fixed representations in personalization, retrieval, and behavior-to-summary modeling pipelines.
 
 ▶ RUN
