@@ -1,7 +1,11 @@
 # ImPerSum
 **Information-Modulated Personalized Summarizer**
 
-This repository contains the complete experimental pipeline for **ImPerSum**, including behavior graph construction, embedding preparation, dimensionality reduction, behavior encoding, and personalized summary generation with latent injection into T5.
+This repository contains the complete experimental pipeline for **ImPerSum**, including behavior graph construction, embedding preparation, dimensionality reduction, behavior encoding, and personalized summary generation with latent injection into T5. 
+
+*Note*: This repository does not include trained model checkpoints or pretrained weights.
+The code enables training from scratch following the configurations described in the paper.
+
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
