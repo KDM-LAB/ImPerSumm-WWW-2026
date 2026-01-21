@@ -15,7 +15,7 @@ The code enables training from scratch following the configurations described in
 
 ### Input
 
-CSV file with user interaction sequences.
+CSV file with user interaction sequences. Source:- https://figshare.com/articles/dataset/PerAugy_SMP_best_version_dataset/30327451
 
 Required columns:
 
